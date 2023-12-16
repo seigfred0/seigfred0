@@ -6,12 +6,7 @@
   - Entrepreneurship
 
 🌱 I’m currently learning ...
-  - Web Development
-    - HTML
-    - CSS
-    - JS
-
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  - Full Stack Web Development
+  - & soon to learn mobile development
+    with cross platform languages
 
